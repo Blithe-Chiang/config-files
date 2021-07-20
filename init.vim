@@ -201,7 +201,8 @@ nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
 """ my settings 
 
 " general settings
-set relativenumber
+" turn hybrid line numbers on
+set relativenumber number
 set ruler
 
 " intend
